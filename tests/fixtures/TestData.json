@@ -1,0 +1,65 @@
+{
+      "usuarioNuevo": {
+      "prefix" : "Mr.",
+      "firstName": "John",
+      "lastName": "Doe",
+      "fullName": "John Doe",
+      "emailAddress": "iamjhondoe",
+      "emailDomain": "@example.com",
+      "password": "123456",
+      "DOB": {
+        "day": "10",
+        "month": "10",
+        "year": "1990"
+
+      },
+      "companyName": "Example Inc.",
+      "address": "123 Main St",
+      "address2": "Apt 4B",
+      "country": "Canada",
+      "state": "Quebec",
+      "city": "Montreal",
+      "zipCode": "90001",
+      "mobilePhoneInput": "+1234567890"
+      },
+
+      "paymentDetails": {
+      "cardName": "John Doe",
+      "cardNumber": "4111111111111111",
+      "cvc": "123",
+      "expirationMonth": "12",
+      "expirationYear": "2024"
+      },
+      
+
+      "usuarioCreado": {
+      "userName" : "Juan Lopez",  
+      "prefix" : "Mr.",
+      "firstName": "Juan",
+      "lastName": "Lopez",
+      "fullName": "Juan Lopez",
+      "emailAddress": "corredoresbaires@gmail.com",
+      "password": "123456",
+      "DOB": {
+        "day": "10",
+        "month": "10",
+        "year": "1990"
+
+      },
+      "companyName": "Linkedin",
+      "address": "123456",
+      "address2": "123456",
+      "country": "New Zealand",
+      "state": "Melbourne ",
+      "city": "Ockland ",
+      "zipCode": "102030",
+      "mobilePhoneInput": "10203040"
+      },
+
+     "reviewInfo": {
+     "name": "Atenea",
+     "email": "corredoresbaires@gmai.com",
+     "message": "This is a review"
+        }
+}  
+  
